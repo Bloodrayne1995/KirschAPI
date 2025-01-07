@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Bloodrayne1995.GlowingSpark.CherryData</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Bloodrayne1995.GlowingSpark.CherryData</AssemblyName>
+  </PropertyGroup>
+
+</Project>
