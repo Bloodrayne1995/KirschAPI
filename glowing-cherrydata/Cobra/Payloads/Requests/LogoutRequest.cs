@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bloodrayne1995.GlowingSpark.CherryData.Cobra.Payloads
+namespace Bloodrayne1995.GlowingSpark.CherryData.Cobra.Payloads.Requests
 {
     public class LogoutRequest : ICobraPayload
     {

@@ -6,14 +6,14 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace Bloodrayne1995.GlowingSpark.CherryData.Cobra.Payloads
+namespace Bloodrayne1995.GlowingSpark.CherryData.Cobra.Payloads.Responses
 {
-    public class RebootResponse : ICobraPayload
+    public class SetActiveInterfaceResponse : ICobraPayload
     {
-        public string GetPayLoadType() => CobraResponseType.RebootResponse;
+        public string GetPayLoadType() => CobraResponseType.SetActiveInterfaceResponse;
 
-        
         [JsonPropertyName("error")]
         public string Error { get; set; } = string.Empty;
+
     }
 }
