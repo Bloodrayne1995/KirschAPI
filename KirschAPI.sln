@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KirschAPI-cherrydata", "glowing-cherrydata\KirschAPI-cherrydata.csproj", "{895B837A-A5A2-4CB8-8F18-B30A0442C572}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KirschAPI-cherrydata", "kirschapi-cherrydata\KirschAPI-cherrydata.csproj", "{895B837A-A5A2-4CB8-8F18-B30A0442C572}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KirschAPI-utils", "glowing-utils\KirschAPI-utils.csproj", "{4C47B929-FFE5-49C5-AAF0-4B2602FB7F8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KirschAPI-utils", "kirschapi-utils\KirschAPI-utils.csproj", "{4C47B929-FFE5-49C5-AAF0-4B2602FB7F8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
