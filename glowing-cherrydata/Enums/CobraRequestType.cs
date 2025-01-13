@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bloodrayne1995.GlowingSpark.CherryData.Enums
+namespace Bloodrayne1995.KirschAPI.CherryData.Enums
 {
     public static class CobraRequestType
     {

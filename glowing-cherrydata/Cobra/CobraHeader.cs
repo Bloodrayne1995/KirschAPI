@@ -7,7 +7,7 @@ using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Bloodrayne1995.GlowingSpark.CherryData.Cobra
+namespace Bloodrayne1995.KirschAPI.CherryData.Cobra
 {
     public class CobraHeader
     {

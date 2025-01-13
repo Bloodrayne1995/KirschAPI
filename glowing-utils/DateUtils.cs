@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bloodrayne1995.GlowingSpark.Utils
+namespace Bloodrayne1995.KirschAPI.Utils
 {
     public static class DateUtils
     {

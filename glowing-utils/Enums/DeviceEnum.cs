@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bloodrayne1995.GlowingSpark.Utils.Enums
+namespace Bloodrayne1995.KirschAPI.Utils.Enums
 {
     public enum DeviceEnum : int
     {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace Bloodrayne1995.GlowingSpark.CherryData.Cobra
+namespace Bloodrayne1995.KirschAPI.CherryData.Cobra
 {
     /// <summary>
     /// Standard-Anfrage für die Cobra-Schnittstelle

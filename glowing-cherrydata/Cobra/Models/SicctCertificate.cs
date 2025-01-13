@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace Bloodrayne1995.GlowingSpark.CherryData.Cobra.Models
+namespace Bloodrayne1995.KirschAPI.CherryData.Cobra.Models
 {
     public class SicctCertificate
     {

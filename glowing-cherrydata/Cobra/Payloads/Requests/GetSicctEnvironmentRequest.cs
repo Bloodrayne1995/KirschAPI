@@ -1,4 +1,4 @@
-﻿using Bloodrayne1995.GlowingSpark.CherryData.Enums;
+﻿using Bloodrayne1995.KirschAPI.CherryData.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace Bloodrayne1995.GlowingSpark.CherryData.Cobra.Payloads.Requests
+namespace Bloodrayne1995.KirschAPI.CherryData.Cobra.Payloads.Requests
 {
     public class GetSicctEnvironmentRequest : ICobraPayload
     {
