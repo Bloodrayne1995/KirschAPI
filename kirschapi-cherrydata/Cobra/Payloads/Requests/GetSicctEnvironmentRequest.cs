@@ -14,7 +14,7 @@ namespace Bloodrayne1995.KirschAPI.CherryData.Cobra.Payloads.Requests
 
 
         [JsonPropertyName("which")]
-        public SicctEnvironmentType Which { get; private set} = SicctEnvironmentType.Default;
+        public SicctEnvironmentType Which { get; private set; } = SicctEnvironmentType.Default;
 
 
         public static GetSicctEnvironmentRequest PU = new (SicctEnvironmentType.PU);

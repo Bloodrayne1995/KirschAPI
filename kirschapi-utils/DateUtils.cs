@@ -1,4 +1,4 @@
-﻿using Bloodrayne1995.GlowingSpark.Utils.Enums;
+﻿using Bloodrayne1995.KirschAPI.Utils.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +11,7 @@ namespace Bloodrayne1995.KirschAPI.Utils
     {
 
 
-        public string GetDateForDevice(DateTime dt, DeviceEnum dType)
+        public static string GetDateForDevice(DateTime dt, DeviceEnum dType)
         {
             if (dType == DeviceEnum.Cherry)
             {
@@ -21,11 +21,11 @@ namespace Bloodrayne1995.KirschAPI.Utils
 
         }
 
-        public DateTime GetDateFromString(string dtString, DeviceEnum dType)
+        public static DateTime GetDateFromString(string dtString, DeviceEnum dType)
         {
             if (dType == DeviceEnum.Cherry)
             {
-                return DateTime.ParseExact(dtString, "yyyyMMdd");
+                return DateTime.ParseExact(dtString, "yyyyMMdd", null);
             }
             return DateTime.MinValue; 
         }
